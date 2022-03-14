@@ -1,0 +1,235 @@
+*{
+    margin: 0px;
+    padding: 0px;
+}
+
+header {
+    width: 100%;
+    height: 100px;
+}
+
+iframe {
+    width: 100%;
+    height: 100%;
+    border-style: none;
+}
+
+footer {
+    width: 100%;
+    height: 500px;
+}
+
+body{
+    background-color: #FFFFFF;
+}
+p{
+    line-height: 150%;
+    font-size: 25px;
+    color: rgb(109,123,147);
+}
+h1{
+    color: rgb(31,62,114);
+   
+}
+.maincontent{ 
+    width: 100%;
+    position: relative; 
+    background-color: #FFFFFF;
+    height: 3400px;
+    
+}
+
+.maincontent .info{
+    position: relative;
+    top: 200px; 
+    left: 10%;
+    width: 30%;
+}.maincontent .info h1{
+    font-size: 80px;
+    font-family: Arial, Helvetica, sans-serif;
+    width: 100%;
+
+}
+.maincontent .info p{
+    color: rgb(122,135,157); 
+    font-family: Arial, Helvetica, sans-serif;
+    width: 100%;
+
+}
+
+.maincontent .image {
+    width: 96%;
+    max-width: 960px;
+    margin: 0 auto;
+}
+.maincontent img{
+    position: absolute;
+    top: 0px;
+    right: 0px;
+    width: 52%;
+    height: auto;
+}
+
+.maincontent .marks{ 
+    position: relative;
+    top: 300px;
+    left: 10%;
+    width: fit-content;
+}
+.maincontent .marks li{ 
+    display: inline;
+    color: rgb(122,135,157);
+    font-size: 15px;
+    font-family: Arial, Helvetica, sans-serif;
+    top: -3px;
+}
+
+.maincontent .marks .check{
+    position: relative;
+    left: 30px;
+}
+.maincontent .marks .starimg{
+    position: relative;
+    left: 80px;
+
+}
+.maincontent .marks .star{
+    position: relative;
+    left: 80px;
+}
+.maincontent .marks img{
+    width: 20px;
+    height: 20px;
+    position: absolute;
+    left: 0%; 
+}
+
+.maincontent .clients{ 
+    position: relative;
+    top:400px;
+    height: 200px;
+}
+.maincontent .clients ul{ 
+    display: inline;
+    color: rgb(122,135,157);
+    font-size: 15px;
+    font-family: Arial, Helvetica, sans-serif;
+    position: relative; 
+    left: 10%;
+}
+
+.maincontent .clients .astra{
+    position: relative;
+    left: 0px;
+    width: 20%;
+    height: 200px;
+}
+.maincontent .clients .sinovac{
+    position: relative;
+    left: -5px;
+    width: 20%;
+    height: 200px;
+}
+.maincontent .clients .pfizer{
+    position: relative;
+    left: 0px;
+    width: 20%;
+    height: 200px;
+}
+.maincontent .clients .moderna{
+    position: relative;
+    left: 0px;
+    width: 20%;
+    height: 200px;
+}
+.maincontent .why{
+    position: relative;
+    top: 600px;
+    left: 10%;
+}
+
+.maincontent .why h1{
+    font-family: Arial, Helvetica, sans-serif;
+    font-weight: bold;
+    font-size: 45px;
+}
+
+.maincontent .why p{
+    font-family: Arial, Helvetica, sans-serif;
+    color: rgb(109,123,147); 
+    width: 33%;
+
+}
+ .benefits{
+    position: relative;
+    left: 10%; 
+    top: -1800px;
+
+}
+.benefits .one{
+    height: 20%;
+    width: 17%;
+    position: absolute;
+    background-color: #F7FAFE;
+}
+.benefits .two{
+    height: 20%;
+    width: 17%;
+    position: absolute;
+    left: 22%; 
+    background-color: #F7FAFE;
+}
+.benefits .three{
+    height: 25%;
+    width: 17%;
+    position: absolute;
+    left: 43%; 
+    background-color: #F7FAFE;
+}
+.benefits .four{
+    height: 25%;
+    width: 17%;
+    position: absolute;
+    left: 67%; 
+    background-color: #F7FAFE;
+}
+.preparation{ 
+    position: absolute;
+    top: 500px; 
+    width: 90%;
+}
+.maincontent .preparation .image{
+    position: relative;
+    width: 40%;
+}
+.preparation .preinfo{
+    position: absolute; 
+    right: 10%;
+    width: 35%;
+    top: 300px;
+}
+
+.preparation .preinfo h1{
+    font-size: 40px;
+}
+
+.preparation .preinfo .options{ 
+    position: relative;
+    width: 100%;
+}
+
+.options{
+    position: relative;
+    top: 100px;
+    
+}
+
+.options h3{
+
+    color: rgb(122,135,157);
+    font-size: 25px;
+    font-family: Arial, Helvetica, sans-serif;
+    padding: 20px;
+}
+
+
