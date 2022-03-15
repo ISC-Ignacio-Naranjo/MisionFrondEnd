@@ -35,7 +35,7 @@ h1{
     width: 100%;
     position: relative; 
     background-color: #FFFFFF;
-    height: 3400px;
+    height: 4400px;
     
 }
 
@@ -163,7 +163,7 @@ h1{
  .benefits{
     position: relative;
     left: 10%; 
-    top: -1800px;
+    top: -2800px;
 
 }
 .benefits .one{
@@ -195,7 +195,7 @@ h1{
 }
 .preparation{ 
     position: absolute;
-    top: 500px; 
+    top: 400px; 
     width: 90%;
 }
 .maincontent .preparation .image{
@@ -230,6 +230,129 @@ h1{
     font-size: 25px;
     font-family: Arial, Helvetica, sans-serif;
     padding: 20px;
+}
+
+.contactus{
+    position: relative;
+    top: -700px;
+    left: 10%; 
+}
+.contactus .call{
+    position: relative; 
+}
+.contactus .call h1{
+    position: relative;
+    left: 100px;
+    top: -80px;
+    color: rgb(74,97,140);
+}
+.contactus .call h2{
+    position: relative;
+    left: 100px;
+    top: -80px;
+    color: rgb(127,140,161);
+}
+.contactus .call button{
+    background-color: rgb(241,245,255);
+    width: 13%;
+    height: 60px;
+    border: none;
+    border-radius: 5px;
+    color: rgb(51,83,206);
+    font-size: 20px;
+    font-weight: bold;
+}
+
+.contactus .chat{
+    position: absolute;
+    left: 20%;
+    top: 0px;
+}
+.contactus .chat h1{
+    position: relative;
+    left: 100px;
+    top: -80px;
+    color: rgb(74,97,140);
+}
+.contactus .chat h2{
+    position: relative;
+    left: 100px;
+    top: -80px;
+    color: rgb(127,140,161);
+}
+.contactus .chat button{
+    background-color: rgb(241,245,255);
+    width: 170%;
+    height: 60px;
+    border: none;
+    border-radius: 5px;
+    color: rgb(51,83,206);
+    font-size: 20px;
+    font-weight: bold;
+}
+.contactus .video{
+    position: absolute;
+    left: 0%;
+    top: 300px;
+}
+.contactus .video h1{
+    position: relative;
+    left: 100px;
+    top: -80px;
+    color: rgb(74,97,140);
+}
+.contactus .video h2{
+    position: relative;
+    left: 100px;
+    top: -80px;
+    color: rgb(127,140,161);
+}
+.contactus .video button{
+    background-color: rgb(241,245,255);
+    width: 170%;
+    height: 60px;
+    border: none;
+    border-radius: 5px;
+    color: rgb(51,83,206);
+    font-size: 20px;
+    font-weight: bold;
+}
+
+.contactus .message{
+    position: absolute;
+    left: 20%;
+    top: 300px;
+}
+.contactus .message h1{
+    position: relative;
+    left: 100px;
+    top: -80px;
+    color: rgb(74,97,140);
+}
+.contactus .message h2{
+    position: relative;
+    left: 100px;
+    top: -80px;
+    color: rgb(127,140,161);
+}
+.contactus .message button{
+    background-color: rgb(241,245,255);
+    width: 170%;
+    height: 60px;
+    border: none;
+    border-radius: 5px;
+    color: rgb(51,83,206);
+    font-size: 20px;
+    font-weight: bold;
+}
+
+.contactus .image{
+    position: absolute;
+    right: 10%;
+    top: -200px;
+}
+
+.contactus img{ 
 }
 
 
